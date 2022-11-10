@@ -1,5 +1,5 @@
 {
-    "name": "barqdev/bpjs-pcare",
+    "name": "sangcahayaid/bpjs-pcare",
     "description": "BPJS Api management",
     "type": "package",
     "license": "MIT",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Ali Sholihin",
-            "email": "ali.sholihin7@gmail.com"
+            "name": "Sangcahaya.id",
+            "email": "fadlyrifai95@gmail.com"
         }
     ],
     "require": {
