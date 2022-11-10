@@ -1,0 +1,21 @@
+{
+    "name": "barqdev/bpjs-pcare",
+    "description": "BPJS Api management",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Barqdev\\BpjsPcare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Sholihin",
+            "email": "ali.sholihin7@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "nullpunkt/lz-string-php": "^1.3"
+    }
+}
